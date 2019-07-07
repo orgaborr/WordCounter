@@ -1,0 +1,2 @@
+This is my first program using scanner/file reader to take the words from a text file, save them in an array list, then print the text and write out the number of words in it.
+This readme was also written from the program.
